@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+    width: 900px;
+    height: 900px;
+}
+.header{
+    width: 900px;
+    height: 300px;
+    text-align: center;
+    color: darkblue;
+}
+h1{
+color:darkblue;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.navigacija{
+    width: 900px;
+    height:200px;
+    display:flex;
+    justify-content: center;
+}

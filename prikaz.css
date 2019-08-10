@@ -1,0 +1,19 @@
+body{
+	background-color:lightblue;
+	width:900px;
+	height:500px;
+}
+h1{
+	font-family: "Times New Roman", Times, Serif;
+	font-weight:bold;
+	font-style:oblique;
+	text-align:center;
+}
+
+ .prikaz {
+	weight:500px;
+	height:300px;
+	position:relative;
+	left:400px;
+	color:darkblue;
+}
