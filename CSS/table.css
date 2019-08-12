@@ -1,0 +1,23 @@
+
+	body{
+    background-color: lightblue;
+    width: 900px;
+    height: 900px;
+}
+
+    table, tr, td, th { 
+        width: 300px;
+  border: 1px solid darkblue;
+        border-collapse: collapse;
+  text-align: center;
+  color:darkblue;
+  position: relative;
+        left: 200px;
+}
+
+
+th, td {
+  padding: 15px;
+  position: relative;
+        left: 200px;
+}
